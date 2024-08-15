@@ -16,6 +16,7 @@
 ## 🚀 My Projects:
 - **[FoodApp](https://github.com/AzerCoder/FoodApp)**: A food application written in SwiftUI.
 - **[CryptoApp](https://github.com/AzerCoder/CryptoApp)**: A cryptocurrency tracking app.
+- **[FoodApp](https://github.com/AzerCoder/AnimationApp)**: A animation SwiftUI app.
 
 ---
 
