@@ -14,9 +14,8 @@
 ---
 
 ## 🚀 My Projects:
-- **[FoodApp](https://github.com/AzerCoder/FoodApp)**: A food application written in SwiftUI.
-- **[CryptoApp](https://github.com/AzerCoder/CryptoApp)**: A cryptocurrency tracking app.
-- **[AnimationApp](https://github.com/AzerCoder/AnimationApp)**: A animation SwiftUI app.
+- **[UzWorks](https://github.com/AzerCoder/UzWorks)**: For jobs and workers written in SwiftUI.
+- **[TTJ_TUIT](https://github.com/AzerCoder/TTJ_TUIT)**: Prepared for TUIT dormitory
 
 ---
 
