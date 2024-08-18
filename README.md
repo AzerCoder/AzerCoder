@@ -15,7 +15,7 @@
 
 ## 🚀 My Projects:
 - **[UzWorks](https://github.com/AzerCoder/UzWorks)**: For jobs and workers written in SwiftUI.
-- **[TTJ_TUIT](https://github.com/AzerCoder/TTJ_TUIT)**: Prepared for TUIT dormitory
+- **[TTJ-TUIT](https://github.com/AzerCoder/TTJ-TUIT)**: Prepared for TUIT dormitory
 
 ---
 
