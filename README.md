@@ -51,6 +51,9 @@
   <a href="https://github.com/AzerCoder/CryptoApp">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AzerCoder&repo=CryptoApp&theme=radical" alt="CryptoApp" />
   </a>
+  <a href="https://github.com/AzerCoder/AnimationApp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AzerCoder&repo=AnimationApp&theme=radical" alt="AnimationApp" />
+  </a>
 </p>
 
 ---
