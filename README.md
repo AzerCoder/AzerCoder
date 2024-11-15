@@ -16,6 +16,7 @@
 ## 🚀 My Projects:
 - **[UzWorks](https://github.com/AzerCoder/UzWorks)**: For jobs and workers written in SwiftUI.
 - **[TTJ-TUIT](https://github.com/AzerCoder/TTJ-TUIT)**: Prepared for TUIT dormitory
+- **[IQROQURAN-Korean](https://github.com/AzerCoder/IqroQuronKorean)**: Quran App for KOREA
 
 ---
 
