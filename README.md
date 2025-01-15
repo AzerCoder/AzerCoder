@@ -17,6 +17,9 @@
 - **[UzWorks](https://github.com/AzerCoder/UzWorks)**: For jobs and workers written in SwiftUI.
 - **[TTJ-TUIT](https://github.com/AzerCoder/TTJ-TUIT)**: Prepared for TUIT dormitory
 - **[IQROQURAN-Korean](https://github.com/AzerCoder/IqroQuronKorean)**: Quran App for KOREA
+- **[BigTaxi](https://github.com/AzerCoder/Bigtaxi)**: Taxi app for Saudia
+- **[BigDrive](https://github.com/AzerCoder/BigDrive)**:Taxi Diver App
+- **[QuranPlayer](https://github.com/AzerCoder/QuranPlayer)**: QuranPlayer App 
 
 ---
 
