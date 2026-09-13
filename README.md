@@ -4,11 +4,11 @@
   </h1>
 
   <a href="https://iosdev.uz" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=iOS+Developer;Flutter+%26+Dart+Developer;SwiftUI+%26+UIKit+Expert;Clean+Architecture+%26+BLoC" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Mobile+Engineer;iOS+%26+Flutter+Developer;SwiftUI+%26+UIKit+Expert;Clean+Architecture+%26+BLoC" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <b>Passionate Mobile Developer dedicated to building seamless, high-performance iOS & Flutter applications.</b>
+    <b>Passionate Mobile Engineer dedicated to building seamless, high-performance iOS & Flutter applications.</b>
   </p>
 
   <p align="center">
@@ -35,7 +35,7 @@
 struct Developer {
     let name = "A'zamjon Abdumuxtorov"
     let alias = "AzerCoder"
-    let roles = ["iOS Developer", "Flutter Developer"]
+    let roles = ["Mobile Engineer", "iOS & Flutter Developer"]
     let location = "Tashkent, Uzbekistan"
     let primaryStack = ["Swift", "SwiftUI", "UIKit", "Flutter", "Dart"]
     let currentFocus = ["Scalable Mobile Apps", "Clean Architecture", "Reactive Programming"]
