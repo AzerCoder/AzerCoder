@@ -24,9 +24,6 @@
     <a href="mailto:azamjonabdumuxtorov1220@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
-    <a href="https://instagram.com/azamjon_abdumuxtorov" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
   </p>
 </div>
 
@@ -107,7 +104,6 @@ struct Developer {
 | 🎧 **Quran Player** | Audio player supporting multiple Qaris, offline playback downloads, and tracking. | `Swift`, `SwiftUI`, `AVFoundation`, `CoreData` | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AzerCoder/QuranPlayer) |
 | 🚕 **BigTaxi & BigDriver** | On-demand ride-hailing app with real-time location tracking and driver dispatch. | `Swift`, `UIKit`, `MapKit`, `Firebase`, `Socket.IO` | [![BigTaxi](https://img.shields.io/badge/BigTaxi-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AzerCoder/Bigtaxi) [![BigDriver](https://img.shields.io/badge/BigDriver-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AzerCoder/BigDriver) |
 | 🏢 **TTJ-TUIT** | Automated university student dormitory placement and digital permit management. | `Swift`, `SwiftUI`, `CoreData`, `Firebase` | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AzerCoder/TTJ-TUIT) |
-| 🍔 **Food App** | Modern dark-themed recipe discovery application with step-by-step instructions. | `Swift`, `SwiftUI`, `Combine`, `Alamofire` | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AzerCoder/FoodApp) |
 
 <details>
   <summary><b>📂 View More Projects & Explorations</b></summary>
